@@ -45,10 +45,22 @@ AutoRent/
 │   │   └── styles.css
 │   ├── .env.example
 │   └── package.json
-└── supabase/
+├── supabase/
     ├── migrations/
     └── seed.sql
+├── screenshots/
+│   ├── 01-registration.png
+│   ├── 02-login.png
+│   ├── 03-vehicle-listing.png
+│   ├── 04-search-filter.png
+│   ├── 05-availability.png
+│   ├── 06-booking-price.png
+│   ├── 07-payment-success.png
+│   └── 08-my-bookings.png
+└── AutoRent_Project_Report.docx
 ```
+
+The `screenshots/` folder contains the application captures used in the project report. The final report is `AutoRent_Project_Report.docx` at the project root.
 
 ## Prerequisites
 
