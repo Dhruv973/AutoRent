@@ -162,12 +162,6 @@ npm test
 npm run build
 ```
 
-## Team contributions
-
-| Team member | Contribution |
-| --- | --- |
-| Member 1: Dhruv Sharma | User registration,User login and authentication,Vehicle listing & Vehicle search and filtering |
-| Member 2: Harish Raj | Vehicle availability checking,Booking creation,Automatic price calculation & Demo payment processing |
 
 ## Payment note
 
